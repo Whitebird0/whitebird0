@@ -7,6 +7,6 @@
 - 💬 Ask me about CTF
 - 📫 How to reach me: QQ767778848
 - 🤣 A low-level programmer
-- 🏃‍ Love basketball and running
+- 🏃‍  Love basketball and running
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=whitebird001&show_icons=true">
 
