@@ -1,4 +1,4 @@
-### Hi [Whitebird]((https://91wxk.cn)) 👋
+### Hi [Whitebird]((https://91wxk.cn)👋
 
 
 - 🔭 I’m currently working on CTF、C、C++、Python、Web...
