@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm <a href="https://91wxk.cn/">Whitebird</a>!</h1> 
 
 
-- 🔭 I’m currently working on CTF、C、C++、Python、Web...
-- 🌱 I’m currently learning Python/masm
+- 🔭 I’m currently working on CTF、C、C++、Python、Web、Java...
+- 🌱 I’m currently learning Reverse
 - 👯 I’m looking to collaborate on CTF
 - 💬 Ask me about CTF
 - 📫 How to reach me: QQ767778848
