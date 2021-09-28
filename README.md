@@ -8,5 +8,5 @@
 - 🤣 A low-level programmer
 - 🏃‍  Love basketball and running
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=whitebird0&show_icons=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitebird0&show_icons=true">
 
